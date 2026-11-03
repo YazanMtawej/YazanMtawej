@@ -18,11 +18,12 @@ thoughtful architecture, reliable functionality, and maintainable code.
 
 ---
 
+
 ## A little about my work
 
-I'm a Software Engineering student and developer focused on building
-mobile applications with Flutter and developing backend services with
-Python and Django.
+I'm an Informatics Engineering graduate from Latakia University
+and a software developer focused on building mobile applications
+with Flutter and developing backend services with Python and Django.
 
 I approach software development as an engineering discipline:
 understanding the problem, designing the right structure, and writing
@@ -30,7 +31,6 @@ code that can evolve without becoming difficult to maintain.
 
 My main areas of interest are mobile architecture, backend engineering,
 API design, application security, and software quality.
-
 ---
 
 ## Selected work
