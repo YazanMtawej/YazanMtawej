@@ -84,7 +84,7 @@ I care about clean architecture, efficient state management, API integration, ap
 - **Key Features:** [To be documented]
 - **Architecture:** [To be documented]
 
-[View Repository](https://github.com/YazanMtawej/onestop-shop)
+[View Repository](https://github.com/YazanMtawej/onestopshop_django)
 
 ---
 
