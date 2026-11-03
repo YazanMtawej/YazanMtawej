@@ -1,127 +1,125 @@
 
 <div align="center">
 
-# Yazan Hisham Mtawej
+# YAZAN HISHAM MTAWEJ
 
-### Flutter Developer | Django Backend Developer
+**Software Engineer · Flutter Developer · Backend Developer**
 
-Building scalable, maintainable, and high-quality mobile applications.
+I build mobile applications and backend systems with a focus on  
+thoughtful architecture, reliable functionality, and maintainable code.
 
 <br/>
 
-<a href="https://github.com/YazanMtawej">
-  <img src="https://img.shields.io/badge/GitHub-YazanMtawej-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+[GitHub](https://github.com/YazanMtawej) &nbsp;·&nbsp;
+[LinkedIn](https://sy.linkedin.com/in/yazan-mtawej-18907832a) &nbsp;·&nbsp;
+[Email](mailto:yznmtwj@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## A little about my work
 
-I'm a Software Engineering student and Flutter Developer interested in building reliable, scalable, and maintainable software solutions.
+I'm a Software Engineering student and developer focused on building
+mobile applications with Flutter and developing backend services with
+Python and Django.
 
-My primary focus is mobile application development using Flutter, with backend development using Django and Django REST Framework.
+I approach software development as an engineering discipline:
+understanding the problem, designing the right structure, and writing
+code that can evolve without becoming difficult to maintain.
 
-I care about clean architecture, efficient state management, API integration, application security, and writing code that remains easy to maintain and extend.
-
----
-
-## Technical Skills
-
-### Mobile Development
-- Flutter
-- Dart
-- State Management: Cubit / BLoC
-- MVVM Architecture
-- REST API Integration
-
-### Backend Development
-- Python
-- Django
-- Django REST Framework
-- RESTful API Design
-- JWT Authentication
-
-### Database & Storage
-- PostgreSQL
-- SQLite
-- Hive
-
-### Development Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Figma
+My main areas of interest are mobile architecture, backend engineering,
+API design, application security, and software quality.
 
 ---
 
-## Featured Projects
+## Selected work
 
-### 1. MedixPro
+A selection of projects I've worked on.
 
-**A Healthcare Management Application**
+### 01 — MedixPro
 
-- **Technologies:** Flutter, Django REST Framework
-- **Description:** [Project description to be added]
-- **Key Features:** [To be documented]
-- **Architecture:** [To be documented]
+**Healthcare Application**
 
-[View Repository](https://github.com/YazanMtawej/medixpro)
+A software project focused on healthcare-related application development.
 
----
+`Flutter` · `Django` · `REST API`
 
-### 2. OneStop Shop
-
-**E-Commerce Application**
-
-- **Technologies:** [To be documented]
-- **Description:** [Project description to be added]
-- **Key Features:** [To be documented]
-- **Architecture:** [To be documented]
-
-[View Repository](https://github.com/YazanMtawej/onestopshop_django)
+[Explore repository →](https://github.com/YazanMtawej/medixpro)
 
 ---
 
-### 3. Learn App
+### 02 — Learn Application
 
 **Programming Learning Application**
 
-- **Technologies:** [To be documented]
-- **Description:** [Project description to be added]
-- **Key Features:** [To be documented]
-- **Architecture:** [To be documented]
+A project exploring the development of a programming learning experience.
 
-[View Repository](https://github.com/YazanMtawej/learn-application)
+[Explore repository →](https://github.com/YazanMtawej/learn-application)
 
 ---
 
-## Engineering Interests
+### 03 — OneStopShop
 
-- Scalable Mobile Application Architecture
-- Backend API Development
-- Software Design Principles
-- Application Security
-- Performance Optimization
-- Maintainable and Testable Code
+**Software Project**
+
+An application project developed as part of my software engineering work.
+
+[Explore repository →](https://github.com/YazanMtawej/onestopshop)
 
 ---
 
-## Contact
+## Engineering toolkit
 
-- **GitHub:** [YazanMtawej](https://github.com/YazanMtawej)
-- **LinkedIn:** [Add LinkedIn Profile URL]
-- **Email:** [Add Professional Email]
+**Mobile**
+- Flutter
+- Dart
+- Cubit / BLoC
+- MVVM
+- REST API Integration
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+- JWT Authentication
+- RESTful API Design
+
+**Data & Tools**
+- PostgreSQL
+- SQLite
+- Hive
+- Git & GitHub
+- Postman
+
+---
+
+## What I care about
+
+- Architecture that supports long-term development.
+- Clear separation of responsibilities.
+- Secure and predictable API communication.
+- Performance and responsive user interfaces.
+- Readable, testable, and maintainable code.
+- Solving problems at their source, not hiding their symptoms.
+
+---
+
+## Get in touch
+
+I'm open to discussing software projects, development opportunities,
+and meaningful engineering collaborations.
+
+**Email:** [yznmtwj@gmail.com](mailto:yznmtwj@gmail.com)
+
+**LinkedIn:** [yazan-mtawej](https://sy.linkedin.com/in/yazan-mtawej-18907832a)
+
+**GitHub:** [YazanMtawej](https://github.com/YazanMtawej)
 
 ---
 
 <div align="center">
 
-**Building software with purpose, quality, and attention to detail.**
+*Build with intention. Engineer with precision.*
 
 </div>
